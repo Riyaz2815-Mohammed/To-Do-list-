@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask,render_template
 from flask_sqlalchemy import SQLAlchemy 
 # from flask import Scss
 
@@ -7,7 +7,7 @@ app =Flask(__name__)
 
 @app.route('/') 
 def home():
-    return "Hello, World This !  "
+    return render_template('index.html')
 
 
 
