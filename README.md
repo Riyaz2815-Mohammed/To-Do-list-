@@ -1,9 +1,9 @@
-# ✅ To-Do List Web Application (Flask CRUD App)
+#  To-Do List Web Application (Flask CRUD App)
 
 A simple and user-friendly **To-Do List web application** built using **Flask** that allows users to manage daily tasks efficiently using **CRUD operations**.
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project helps users:
 - Add tasks
