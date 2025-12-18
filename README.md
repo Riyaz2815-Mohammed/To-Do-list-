@@ -98,6 +98,8 @@ It demonstrates the **core concepts of backend development**, database interacti
 ### ✏️ Update Task
 ![Update Task](screenshot/update.png)
 
-### ✏️ Done Task
+### ✅ Done Task
 ![Update Task](screenshot/done.png)
 
+### ❌ Delete Task 
+![Delete Task](screenshot/delete.png)           
